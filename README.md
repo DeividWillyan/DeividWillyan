@@ -33,20 +33,4 @@
 ![](https://img.shields.io/badge/CI/CD-CodeMagic-informational?style=flat&logo=codemagic&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/CI/CD-Jankings-informational?style=flat&logo=jankings&logoColor=white&color=9400D3)
 
----
-### Repositories
-
-<a href="https://github.com/DeividWillyan/Flutter-CleanArchitecture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Flutter-CleanArchitecture&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/DeividWillyan/Angular-NestJs-Flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Angular-NestJs-Flutter&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/DeividWillyan/Flutter-BankNuter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Flutter-BankNuter&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/DeividWillyan/Flutter-Appium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Flutter-Appium&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
-</a>
-
 
