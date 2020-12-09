@@ -44,9 +44,14 @@
 <a href="https://github.com/DeividWillyan/Angular-NestJs-Flutter">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Angular-NestJs-Flutter&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/DeividWillyan/Flutter-BankNuter">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Flutter-BankNuter&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
 </a>
+
+
 <a href="https://github.com/DeividWillyan/Flutter-Appium">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DeividWillyan&repo=Flutter-Appium&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21" />
 </a>
+
+
