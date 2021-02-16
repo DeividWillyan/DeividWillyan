@@ -20,6 +20,7 @@
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=9400D3)
